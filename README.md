@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Nelson León! 
-### Web Developer | Full-Stack Developer 🚀  
+### Front-End Developer 🚀  
 
 ---
 ### 💻 **Operating Systems**  
